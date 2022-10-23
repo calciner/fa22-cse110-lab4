@@ -1,0 +1,2 @@
+1. the number type input for the function calculateSum is string, add two string together will create new string, so it is not arithmetic calculation.
+2. change the string type number to integer type number, then the calculateSum will work as sum of two numbers.

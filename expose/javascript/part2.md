@@ -32,7 +32,7 @@ C. true
 D. false
 E. false
 F. true  
-15. (==) is equality operator, it can compare two values with different data type, integer 2 and string '2' will return true because they refer the same things.numbers and strings with different length will reutrn false. (===) is strict equality operator, if the compared two value are not the same type, strict equality operator will return false, other remain the same sa (==).
+15. (==) is equality operator, it can compare two values with different data type, integer 2 and string '2' will return true because they refer the same things.numbers and strings with different length will reutrn false. (===) is strict equality operator, if the compared two value are not the same type, strict equality operator will return false, other remain the same sa (==).  
 16. part2-question16.js  
 17. the result will be [ 2, 4, 6 ], when call the function modifyArray, the function require two parameter, one is array, one is a function. inside the modifyArray function, it will use the doSomathing function to modify the array elment value and create a new array. because the parameter funciont is double the number, so the return array will double the value for every element.  
 18. part2-question18.js  
